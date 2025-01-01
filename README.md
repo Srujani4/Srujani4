@@ -1,4 +1,4 @@
-#  Hi , I'm Jayanth <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
+#  Hi , I'm Srujani <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 
 ## Grad Student at the University of Waterloo
