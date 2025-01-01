@@ -8,12 +8,6 @@
 - 🥅 Goals: Live for the moment
 - ⚡ Fun fact: I'm an artist
 
-<p align="center">
-    <a href="https://github.com/Srujani4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srujani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srujani4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
